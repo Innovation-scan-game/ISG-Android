@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ISG-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/ISG-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ISG-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ISG-Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ISG-Android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ISG-Android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ISG-Android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ISG-Android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ISG-Android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ISG-Android.app.unitTest.iml" />
     </modules>
   </component>
 </project>
